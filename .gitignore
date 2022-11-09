@@ -1,0 +1,9 @@
+*.DS_Store
+.idea
+.vscode
+
+*__pycache__/
+ main.py
+
+ # in case we change data
+ data
